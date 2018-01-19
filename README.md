@@ -1,5 +1,3 @@
 # hello-world
-my first project
-
-
-test learn
+hehe = "HaHaHa"
+print("OK, so thats my first real code,{}!".format(hehe))
